@@ -536,6 +536,7 @@
 [@Reallizerule](https://github.com/Reallizerule)
 [@Barbra0613](https://github.com/Barbra0613)
 [@caijiahong1cc](https://github.com/caijiahong1cc)
+[@pku-buyu](https://github.com/pku-buyu)
 
 
 ### 文件状态检查
