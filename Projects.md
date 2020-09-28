@@ -534,6 +534,8 @@
 ### 成员
 
 [@Reallizerule](https://github.com/Reallizerule)
+[@Barbra0613](https://github.com/Barbra0613)
+[@caijiahong1cc](https://github.com/caijiahong1cc)
 
 
 ### 文件状态检查
